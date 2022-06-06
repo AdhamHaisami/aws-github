@@ -3,3 +3,8 @@ background-color: aqua;
 border: 10px solid red;
 color: blueviolet;
 }
+
+div{
+    color: #000;
+    font-size: 18px;
+}
