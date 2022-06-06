@@ -7,3 +7,10 @@ color: blueviolet;
     font-size: large;
     color:crimson
 }
+.noor {
+    color: blueviolet;
+    background-color: blanchedalmond;
+    border: 5px solid tomato;
+    padding: 10px;
+    margin: 10px;
+}
